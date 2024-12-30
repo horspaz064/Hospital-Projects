@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "2AYYFPIyUX8=",
   "success": true,
   "projectFilePath": "C:\\EnterPrice_Project\\Hospital-Projects\\Hospital-Project\\Hospital-Project.csproj",
+=======
+  "dgSpecHash": "c8keKQ36TzU=",
+  "success": true,
+  "projectFilePath": "E:\\Project-Two\\Angular\\Hospital-Projects\\Hospital-Project\\Hospital-Project.csproj",
+>>>>>>> 54aa5e64df62aeebe4ef90961398a32f21181385
   "expectedPackageFiles": [],
   "logs": []
 }
