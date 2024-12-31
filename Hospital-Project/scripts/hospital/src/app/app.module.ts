@@ -3,12 +3,15 @@ import { BrowserModule } from "@angular/platform-browser";
 import { RouterModule } from "@angular/router";
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppComponent } from "./app.component";
+import { SidebarComponent } from "../components/sidebar/sidebar.component";
 
 
 
 @NgModule({
     declarations: [
-      AppComponent
+        AppComponent,
+        SidebarComponent,
+
     ],
     imports: [
         BrowserModule,
