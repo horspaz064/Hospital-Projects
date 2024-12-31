@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project-Two\\Angular\\Hospital-Projects\\Hospital-Project\\Hospital-Project.csproj": {}
+    "D:\\project in git\\Hospital-Projects\\Hospital-Project\\Hospital-Project.csproj": {}
   },
   "projects": {
-    "E:\\Project-Two\\Angular\\Hospital-Projects\\Hospital-Project\\Hospital-Project.csproj": {
+    "D:\\project in git\\Hospital-Projects\\Hospital-Project\\Hospital-Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project-Two\\Angular\\Hospital-Projects\\Hospital-Project\\Hospital-Project.csproj",
+        "projectUniqueName": "D:\\project in git\\Hospital-Projects\\Hospital-Project\\Hospital-Project.csproj",
         "projectName": "Hospital-Project",
-        "projectPath": "E:\\Project-Two\\Angular\\Hospital-Projects\\Hospital-Project\\Hospital-Project.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "E:\\Project-Two\\Angular\\Hospital-Projects\\Hospital-Project\\obj\\",
+        "projectPath": "D:\\project in git\\Hospital-Projects\\Hospital-Project\\Hospital-Project.csproj",
+        "packagesPath": "C:\\Users\\VELVETKITTY\\.nuget\\packages\\",
+        "outputPath": "D:\\project in git\\Hospital-Projects\\Hospital-Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VELVETKITTY\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
