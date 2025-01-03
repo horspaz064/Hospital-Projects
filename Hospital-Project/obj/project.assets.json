@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "D:\\project in git\\Hospital-Projects\\Hospital-Project\\Hospital-Project.csproj",
       "projectName": "Hospital-Project",
       "projectPath": "D:\\project in git\\Hospital-Projects\\Hospital-Project\\Hospital-Project.csproj",
       "packagesPath": "C:\\Users\\VELVETKITTY\\.nuget\\packages\\",
       "outputPath": "D:\\project in git\\Hospital-Projects\\Hospital-Project\\obj\\",
+=======
+      "projectUniqueName": "D:\\Hospital-Projects\\Hospital-Project\\Hospital-Project.csproj",
+      "projectName": "Hospital-Project",
+      "projectPath": "D:\\Hospital-Projects\\Hospital-Project\\Hospital-Project.csproj",
+      "packagesPath": "C:\\Users\\VELVETKITTY\\.nuget\\packages\\",
+      "outputPath": "D:\\Hospital-Projects\\Hospital-Project\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
